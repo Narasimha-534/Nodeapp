@@ -1,0 +1,22 @@
+{
+  "name": "nodepro",
+  "version": "1.0.0",
+  "description": "This is a node application to display student registration details.",
+  "main": "studregnode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Narasimha-534/Nodeapp.git"
+  },
+  "author": "Narasimha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Narasimha-534/Nodeapp/issues"
+  },
+  "homepage": "https://github.com/Narasimha-534/Nodeapp#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
